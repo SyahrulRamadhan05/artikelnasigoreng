@@ -1,10 +1,10 @@
-# Jurnal Bersepeda Nusantara
+# Jurnal Masak Nusantara
 
-Website sederhana berupa blog informatif seputar dunia bersepeda. Proyek ini dibuat sebagai **Tugas Akhir (Submission)** untuk menyelesaikan kelas [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123) di **Dicoding Academy**.
+Website sederhana berupa blog informatif seputar dunia memasak nasi goreng khas Indonesia. Proyek ini dibuat sebagai **Tugas Akhir (Submission)** untuk menyelesaikan kelas [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123) di **Dicoding Academy**.
 
 ## Deskripsi Proyek
 
-Website ini berisi artikel edukasi tentang jenis-jenis sepeda (Mountain Bike, Road Bike, Folding Bike) dan tips aman bersepeda di jalan raya. Tampilan website dirancang menggunakan pendekatan layout yang modern dan responsif agar tetap rapi dan nyaman dibaca, baik melalui layar desktop maupun layar *smartphone*.
+Website ini berisi artikel edukasi tentang jenis-jenis nasi goreng (Nasi Goreng Kampung, Seafood, dan Jawa) serta tips dan trik memasak nasi goreng yang sempurna untuk pemula. Tampilan website dirancang menggunakan pendekatan layout yang modern dan responsif agar tetap rapi dan nyaman dibaca, baik melalui layar desktop maupun layar *smartphone*.
 
 ## Kriteria Pemrograman & Fitur
 
@@ -24,7 +24,7 @@ Karena proyek ini hanya terdiri dari HTML dan CSS statis, Anda tidak memerlukan 
 
 ## Author
 
-- **Nama:** Muhamad Pahmi
+- **Nama:** Syahrul Ramadhan
 - **Status:** Siswa Dicoding Academy
 
 ---
